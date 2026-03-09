@@ -26,5 +26,4 @@ public class School {
 //    @OneToMany(mappedBy = "school" , cascade = CascadeType.ALL)
 //    @JsonManagedReference(value = "school-dept")
 //    List<Department> departments;
-
 }
